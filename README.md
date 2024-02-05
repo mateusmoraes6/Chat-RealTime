@@ -2,7 +2,7 @@
 
 Chat Real Time é um projeto Fulls-Stack desenvolvido utilizando Node.js, Express e WebSockets para proporcionar uma experiência de chat em tempo real. 🌐
 
-Tendo como principal funcionalidade a troca de mensagens que são enviadas e recebidas instantaneamente entre s usuários.
+Tendo como principal funcionalidade a troca de mensagens que são enviadas e recebidas instantaneamente entre os usuários.
 
 ## Tecnologias Utilizadas 💻
 
